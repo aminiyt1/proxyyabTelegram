@@ -1,2 +1,9 @@
 # proxyyabTelegram
 پروکسی یاب تلگرام تحت وب
+
+برای اطلاعات بیشتر در کانال تلگرامی ما عضو بشید :
+https://t.me/asrnovin_ir
+
+آموزش ویدیو راه اندازی برای خودتون :
+
+https://youtu.be/NVgqb-As9Eg
